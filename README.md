@@ -1,9 +1,15 @@
 **File Contents**
+
 1)VAE Encoder
+
 2)VAE Decoder
+
 3)Text Conditioning
+
 4)Cross Attention
+
 5)Resblock
+
 6)UNET
 
 **Encoder (VAE encoder)**:
