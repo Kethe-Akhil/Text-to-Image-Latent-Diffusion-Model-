@@ -1,4 +1,4 @@
-#File Contents
+@File Contents
 1)VAE Encoder
 2)VAE Decoder
 3)Text Conditioning
